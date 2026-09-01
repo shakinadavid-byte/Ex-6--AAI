@@ -1,6 +1,6 @@
 <H3>NAME: SHAKIN.D</H3>
 <H3>REGISTER NO: 212225100049</H3>
-<H3>EX. NO.6</H3>
+<H3>EX. NO.8</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
  <BR>
