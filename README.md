@@ -1,4 +1,4 @@
-<H3>NAME: SHAKIN.D</H3>
+<H3>NAME: SHAKINA.D</H3>
 <H3>REGISTER NO: 212225100049</H3>
 <H3>EX. NO.8</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
